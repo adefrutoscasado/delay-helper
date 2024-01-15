@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/delay-helper/static/css/main.92c17008.chunk.css",
+    "main.js": "/delay-helper/static/js/main.64265130.chunk.js",
+    "main.js.map": "/delay-helper/static/js/main.64265130.chunk.js.map",
+    "runtime-main.js": "/delay-helper/static/js/runtime-main.d16164c9.js",
+    "runtime-main.js.map": "/delay-helper/static/js/runtime-main.d16164c9.js.map",
+    "static/css/2.1a61e1bc.chunk.css": "/delay-helper/static/css/2.1a61e1bc.chunk.css",
+    "static/js/2.b55ede3a.chunk.js": "/delay-helper/static/js/2.b55ede3a.chunk.js",
+    "static/js/2.b55ede3a.chunk.js.map": "/delay-helper/static/js/2.b55ede3a.chunk.js.map",
+    "static/js/3.0cd93d89.chunk.js": "/delay-helper/static/js/3.0cd93d89.chunk.js",
+    "static/js/3.0cd93d89.chunk.js.map": "/delay-helper/static/js/3.0cd93d89.chunk.js.map",
+    "index.html": "/delay-helper/index.html",
+    "static/css/2.1a61e1bc.chunk.css.map": "/delay-helper/static/css/2.1a61e1bc.chunk.css.map",
+    "static/css/main.92c17008.chunk.css.map": "/delay-helper/static/css/main.92c17008.chunk.css.map",
+    "static/js/2.b55ede3a.chunk.js.LICENSE.txt": "/delay-helper/static/js/2.b55ede3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d16164c9.js",
+    "static/css/2.1a61e1bc.chunk.css",
+    "static/js/2.b55ede3a.chunk.js",
+    "static/css/main.92c17008.chunk.css",
+    "static/js/main.64265130.chunk.js"
+  ]
+}
