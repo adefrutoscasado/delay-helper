@@ -1,0 +1,99 @@
+
+
+/* * {
+  background-color: whitesmoke;
+} */
+
+
+.app{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100vh;
+}
+
+@media only screen and (max-width : 1200px) {
+  .app{
+    flex-direction: column;
+  }
+}
+
+.form-division {
+  margin: 0 auto;
+  width: 30%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+@media only screen and (max-width : 1200px) {
+  .form-division{
+    width: 80%;
+  }
+}
+
+.chart-division {
+  margin-top: auto;
+  margin-bottom: auto;
+  /* padding: 30px; */
+}
+
+.form-container {
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+@media only screen and (max-width : 1200px) {
+  .form-container{
+    padding-top: 0px;
+  }
+}
+
+.flex-direction-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.space-around {
+  justify-content: space-around;
+}
+
+.integer-step {
+  padding: 10px;
+  width: 100%;
+}
+
+.checkbox {
+  width: 10%;
+}
+
+.label {
+  white-space: nowrap;
+  width: 90%;
+}
+
+.check-equivalences-icon {
+  cursor: pointer;
+  text-align: center;
+  width: 28px;
+}
+
+.panel-header-icon {
+  padding-right: 10px;
+}
+
+.slider {
+  width: 100%;
+}
+
+.input-number {
+  margin-left: 5%;
+}
+
+.app {
+  width: 100%;
+}
