@@ -31,7 +31,7 @@
   </a>
 
   <p align="center">
-    A tiny app to compare the carbon footprint of our activities
+    A tiny app to help you scheduling your appliance programs
     <br />
     <a href="https://adefrutoscasado.github.io/delay-helper/">View Demo</a>
     ·
@@ -44,67 +44,4 @@
 <br />
 <br />
 
-
-
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-
-### Built With
-
-* [Carbon Footprint Diagnostic](https://github.com/NMF-earth/carbon-footprint)
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/adefrutoscasado/co2-comparator
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Start the application
-   ```sh
-   npm start
-   ```
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use the menu to compare different kind of activities in terms of Kg of CO2.
-
-Use the blue graph icon to check the equivalences of an element. For example, if we click this icon for 150g of beef, we can check the equivalences in terms of Kg of CO2: 14 km of plane, 15 km of car, 7.5 hours of ultra HD video or 0.3 units of shirt.
-
-![](https://user-images.githubusercontent.com/22233309/122446214-b13abb80-cfa2-11eb-8a2d-1ee0f8475192.png)
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
