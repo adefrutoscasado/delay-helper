@@ -41,7 +41,7 @@ const App = () => {
       now.add(1, 'day').hour(8).minute(0).second(0).millisecond(0).toISOString()
   })
 
-  const [programDurationValue, setProgramDurationValue] = useSessionStorage('program-duration', now.hour(3).minute(50).second(0).millisecond(0).toISOString())
+  const [programDurationValue, setProgramDurationValue] = useSessionStorage('program-duration', now.hour(3).minute(30).second(0).millisecond(0).toISOString())
 
   const programDuration = dayjs(programDurationValue)
 
